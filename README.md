@@ -1,4 +1,4 @@
-# 🐼 Programming Assignments - Pandas Data Analysis
+# 🐼 Programming Assignment - Pandas Data Analysis
 
 This repository contains my programming assignments for **ECE 2112: Advanced Computer Programming and Algorithms**, focusing on data analysis using the Pandas library.
 
@@ -12,7 +12,7 @@ This repository contains my programming assignments for **ECE 2112: Advanced Com
 ---
 
 ### Problem 1: Load Cars Dataset  
-Load the provided CSV file into a DataFrame named `cars` and display the first and last five rows.
+Load the CSV file into a DataFrame named `cars` and display the first and last five rows.
 
 **Steps:**  
 1. Download the dataset from [http://bit.ly/Cars_file](http://bit.ly/Cars_file).  
